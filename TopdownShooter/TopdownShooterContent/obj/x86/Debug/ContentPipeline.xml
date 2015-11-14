@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>black_dot.png</Source>
+      <Name>black_dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\black_dot.xnb</Output>
+      <Time>2013-02-20T14:02:52.8879437-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-02-20T14:09:46.2675877-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tilesheet.png</Source>
+      <Name>tilesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\tilesheet.xnb</Output>
+      <Time>2013-03-18T21:23:32.162717-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-03-08T14:04:15.3486938-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-15T15:24:13.6002753-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

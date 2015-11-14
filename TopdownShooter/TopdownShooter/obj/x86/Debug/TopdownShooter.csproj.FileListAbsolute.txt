@@ -1,0 +1,29 @@
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\black_dot.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.pdb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.pdb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\font.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\black_dot.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\font.xnb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.pdb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.pdb
+C:\Users\Jimmy\Desktop\C#\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\tilesheet.xnb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\black_dot.xnb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\player.xnb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\tilesheet.xnb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\Content\font.xnb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\bin\x86\Debug\TopdownShooter.pdb
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.exe
+C:\Users\Jimmy\Desktop\C#\Summer 2013\TopdownShooter Motherfolder\TopdownShooter\TopdownShooter\TopdownShooter\obj\x86\Debug\TopdownShooter.pdb

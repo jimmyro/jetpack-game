@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopdownShooter", "TopdownShooter\TopdownShooter\TopdownShooter.csproj", "{E64FC3BC-1E61-48E5-A861-2A7FFD4D40A5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TopdownShooterContent", "TopdownShooter\TopdownShooterContent\TopdownShooterContent.contentproj", "{969D8740-5A9E-4E10-AD48-5E43B5BBEBE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64FC3BC-1E61-48E5-A861-2A7FFD4D40A5}.Debug|x86.ActiveCfg = Debug|x86
+		{E64FC3BC-1E61-48E5-A861-2A7FFD4D40A5}.Debug|x86.Build.0 = Debug|x86
+		{E64FC3BC-1E61-48E5-A861-2A7FFD4D40A5}.Release|x86.ActiveCfg = Release|x86
+		{E64FC3BC-1E61-48E5-A861-2A7FFD4D40A5}.Release|x86.Build.0 = Release|x86
+		{969D8740-5A9E-4E10-AD48-5E43B5BBEBE6}.Debug|x86.ActiveCfg = Debug|x86
+		{969D8740-5A9E-4E10-AD48-5E43B5BBEBE6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

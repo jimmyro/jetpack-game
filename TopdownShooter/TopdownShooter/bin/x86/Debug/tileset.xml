@@ -1,0 +1,25 @@
+<load type="itemset">
+	<attributes>
+		<itemtype>tile</itemtype>
+	</attributes>
+	<content>
+		<tile id="00">
+			<name>air</name>
+			<texture>00</texture>
+			<color>0,0,0,0</color>
+			<cancollide>false</cancollide>
+		</tile>
+		<tile id="01">
+			<name>earth</name>
+			<texture>00</texture>
+			<color>34,139,34,255</color>
+			<cancollide>true</cancollide>
+		</tile>
+		<tile id="02">
+			<name>platform</name>
+			<texture>00</texture>
+			<color>255,69,0,255</color>
+			<cancollide>true</cancollide>
+		</tile>
+	</content>
+</load>
